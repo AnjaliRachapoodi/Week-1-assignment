@@ -7,8 +7,6 @@
   - `npm run test-anagram`
 */
 
-function isAnagram(str1, str2) {
+const a = 2+3;
+console.log(a);
 
-}
-
-module.exports = isAnagram;
